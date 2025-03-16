@@ -1,8 +1,9 @@
+import Footer from "./assets/components/Footer/Footer"
+import Navbar from "./assets/components/Navbar/Navbar"
 import AboutSection from "./Pages/Home/sections/AboutSection/AboutSection"
 import HeroSection from "./Pages/Home/sections/HeroSection/HeroSection"
-import Navbar from "./components/Navbar/Navbar"
-import ProjectsSection from "./Pages/Home/sections/ProjectsSection/ProjectsSection"
-import Footer from "./components/Footer/Footer"
+import ProjectsSection from "./Pages/Home/sections/ProjectsSection"
+
 
 
 const App: React.FC = () => {
